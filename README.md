@@ -4,7 +4,7 @@ Ayomide Application
 `CodePath Intro to Mobile Development PreWork
 
 ### App Walk-though
-![](https://github.com/Fathia05/AyomideApplication/tree/master/https://ephmedia.giphy.com/d2d32a85-3994-45d2-8940-013eda4db51d.gif)
+![](https://github.com/Fathia05/AyomideApplication/tree/blob/master/https://ephmedia.giphy.com/d2d32a85-3994-45d2-8940-013eda4db51d.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
